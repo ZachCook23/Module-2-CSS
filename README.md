@@ -14,7 +14,7 @@
 
 ## Roadmap:  
 
-## ontributing:  
+## Contributing:  
 
 ## Authors and acknowledgment:  Zach Cook & various tutors.
 
