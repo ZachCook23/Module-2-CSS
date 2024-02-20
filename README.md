@@ -1,6 +1,6 @@
 ## Name: Module-2-CSS
 
-## Description:  
+## Description:  To deploy a coding portfolio which exhibits information about me, 3 projects (and descriptions), and a Contact section.
 
 ## Badges:  No badges were used in this project.
 
