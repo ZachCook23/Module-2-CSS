@@ -2,22 +2,22 @@
 
 ## Description:  
 
-##Badges:  
+## Badges:  
 
-##Visuals:  
+## Visuals:  
 
-##Installation:
+## Installation:
 
-##Usage:
+## Usage:
 
-##Support:  
+## Support:  
 
-##Roadmap:  
+## Roadmap:  
 
-##Contributing:  
+## ontributing:  
 
-##Authors and acknowledgment:  Zach Cook & various tutors.
+## Authors and acknowledgment:  Zach Cook & various tutors.
 
-##License:  
+## License:  
 
-##Project Status:  
+## Project Status:  
